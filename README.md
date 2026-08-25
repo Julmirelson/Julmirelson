@@ -46,7 +46,7 @@ A digital platform focused on connecting technology,
 culture and people.
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Julmirelson&theme=dark)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Julmirelson&theme=github_dark)
 
 ## 🌐 Connect With Me
 
