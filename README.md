@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Julmiro Monteiro
 
-<!--
-**Julmirelson/Julmirelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 IT | Software Development | Technology
 
-Here are some ideas to get you started:
+> Building ideas into practical digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a technology enthusiast focused on building software,
+learning new technologies and solving real-world problems with code.
+
+- 💻 Software Development
+- 🔐 Cybersecurity & IT
+- 🌐 Web Technologies
+- 📱 Mobile Development
+- 🚀 Building digital products
+
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
+
+### Web & Development
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+
+## 🔥 Featured Projects
+
+### 🧮 Calculadora-Inteligente
+A smart calculator project built with TypeScript.
+
+### 🛒 GameShop Angola
+An e-commerce project focused on the gaming market.
+
+### 🌍 AngOnline
+A digital platform focused on connecting technology,
+culture and people.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=transparent)
+
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/SEU_USERNAME)
+
+> **Build. Learn. Improve. Repeat.**
