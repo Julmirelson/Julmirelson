@@ -46,7 +46,7 @@ A digital platform focused on connecting technology,
 culture and people.
 
 ## 📊 GitHub Stats
-![Julmiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julmirelson&show_icons=true&theme=dark&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Julmirelson&theme=dark)
 
 ## 🌐 Connect With Me
 
